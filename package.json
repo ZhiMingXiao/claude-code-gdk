@@ -1,5 +1,5 @@
 {
-  "name": "@anthropic-ai/claude-code",
+  "name": "@ZhiMingXiao/claude-code-gdk",
   "version": "999.0.0-restored",
   "private": true,
   "description": "Restored Claude Code source tree reconstructed from source maps.",
